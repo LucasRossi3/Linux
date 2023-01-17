@@ -1,2 +1,2 @@
 # Linux
-Conteúdos e atividades SO Linux
+Linux OS Contents and Activities
